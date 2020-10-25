@@ -1,7 +1,8 @@
-# the tutz drone
+# zmann drone
 
-the tutz Drone is a tiny web app mimicking a radio widget - featuring the cool work of [the tutz](https://thetutz.bandcamp.com/), an experimental musician from Brazil.
+zmann Drone is a tiny web app mimicking a radio widget - featuring the cool work of [zmann](https://imgur.com/a/zTXyeGM), an experimental musician from Brazil.
 
+[!img](https://i.imgur.com/KoMYaK0.png)
 
 ## Usage
 
